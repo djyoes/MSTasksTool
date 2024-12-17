@@ -37,9 +37,6 @@ The **Microsoft Post Migration Helper Wizard (MSTasksTool)** is a robust, user-f
 
 ![image](https://github.com/user-attachments/assets/bfeee219-7819-40f6-8bf8-6ab05b4d3505)
 
-
-> *Screenshots and animated GIFs showcasing the tool's interface and step-by-step process will be added here.*
-
 ---
 
 ## 🛠 Prerequisites
